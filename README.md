@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Md. Yasin Arafat
 
-<!--
-**Md-Yasin-Arafat/Md-Yasin-Arafat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌊 Naval Architect | 💻 FEM & CFD Enthusiast | 📊 Data Analyst | 🤖 Learning ML
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔧 I design, analyze, and optimize ship structures and hydrodynamics.
+- 📊 Experienced in CFD simulations, structural design, and wave interaction.
+- 🧠 Always learning: Machine Learning and Advanced Naval Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+- 🛥️ Ship Hydrostatics Calculator (Python + Trimesh)
+- 🌊 CFD-based hull optimization using OpenFOAM
+- 📚 GRE Prep & Forex strategy building
+
+## 🛠️ Tech Stack
+- 💻 Python, MATLAB, OpenFOAM, Rhino/Orca3D
+- 🧪 Git, NumPy, Matplotlib, Pandas
+- 🧠 Learning: scikit-learn, TensorFlow
+
+## 📫 Connect With Me
+- LinkedIn: [Your LinkedIn URL]
+- Email: [Your Email]
+
