@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md. Yasin Arafat
 
-🌊 Naval Architect | 💻 FEM & CFD Enthusiast | 📊 Data Analyst | 🤖 Learning ML
+🌊 Naval Architect | 💻 FEM & CFD Enthusiast | 📊 Data Analyst | 🤖 ML Engineer
 
 ## 🚀 About Me
 - 🔧 I specialize in designing, analyzing, and optimizing ship structures in compliance with IACS class societies such as RINA, IRS, ABS, LR, and BV.
@@ -11,7 +11,7 @@
 - 📄 Experienced in drafting technical manuals and reports, including DP Failure Mode Effect Analysis and DP Operation Manuals.
 - 💻 Solid understanding of programming with C/C++, Python, and MATLAB (including OOP concepts and algorithm development).
 - 📚 Proficient in data science libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn.
-- 🧠 Continuously learning and expanding skills in Data Analysis, Machine Learning, CFD and Advanced Naval Architecture.
+- 🧠 Continuously learning and expanding skills in Data Analysis, Machine Learning, CFD, and Advanced Naval Architecture.
 
 
 ## 🔭 Current Projects
